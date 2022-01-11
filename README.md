@@ -15,4 +15,4 @@ Elsker at skrive en masse blogindlæg og se film om aftenen. Har en
   og et <a href="https://xn--flyttemndene-ddb.dk/">flyttefirma</a>  
   ved siden af <a href="https://startupmagazine.dk/">Startup Magazine</a>. 
 Jeg hjælper også <a href="https://korekort-ribe.dk/">andre</a> med deres hjemmesider.
-<a href="https://gamergadets.dk/">Gamer Gadgets</a>
+<a href="https://gamergadgets.dk/">Gamer Gadgets</a>
